@@ -8,3 +8,5 @@ export GCC_HOST_COMPILER_PATH=/usr/bin/gcc-13
 
 bazel build vector:main
 bazel run vector:main
+
+
